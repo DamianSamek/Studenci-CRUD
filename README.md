@@ -1,9 +1,5 @@
 Aplikacja Webowa wyświetlająca listę studentów. Umożliwia tworzenie, odczyt, aktualizację i usuwanie obiektów bazy danych.
-Wykorzystane technologie:
--Spring MVC
--Spring Security
--Hibernate
--Maven
+Wykorzystane technologie: Spring MVC, Spring Security, Hibernate, Maven
 
 Instrukcja uruchomienia:
 1. Sklonuj repozytorium
